@@ -1,0 +1,18 @@
+.tooltip {
+    position: absolute;
+    background-color: #555;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button {
+    margin: 10px;
+    width: fit-content;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
